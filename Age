@@ -1,0 +1,13 @@
+age=int(input("Enter your age: "))
+if age<=10:
+    print("Child")
+elif age in range(11,19):
+    print("Teenager")
+elif age in range(20,31):
+    print("Matured")
+elif age in range(32,58):
+    print("Experienced")
+elif age in range(59,110):
+    print("Senior citizen")
+else:
+    print("Invalid")
