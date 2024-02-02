@@ -104,7 +104,7 @@ def unify(exp1, exp2):
 exp1 = "knows(X)"
 exp2 = "knows(Richard)"
 substitutions = unify(exp1, exp2)
-print("Kanjika Singh-1BM21CS086")
+print("J Hanuma Kaushik-1BM21CS078")
 print("Substitutions:")
 print(substitutions)
 exp1 = "knows(A,x)"
