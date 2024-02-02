@@ -105,7 +105,7 @@ kb.tell('missile(x)&owns(Nono,x)=>sells(West,x,Nono)')
 kb.tell('american(x)&weapon(y)&sells(x,y,z)&hostile(z)=>criminal(x)')
 kb.query('criminal(x)')
 kb.display()
-print("Kanjika Singh-1BM21CS086")
+print("J Hanuma Kaushik-1BM21CS078")
 
 kb_ = KB()
 kb_.tell('king(x)&greedy(x)=>evil(x)')
