@@ -93,7 +93,7 @@ class KB:
         print("All facts: ")
         for i, f in enumerate(set([f.expression for f in self.facts])):
             print(f'\t{i+1}. {f}')
-print("Kanjika Singh-1BM21CS086")
+print("J Hanuma Kaushik-1BM21CS078")
 kb = KB()
 kb.tell('missile(x)=>weapon(x)')
 kb.tell('missile(M1)')
